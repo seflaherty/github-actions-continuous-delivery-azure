@@ -1,4 +1,4 @@
-name: Configure Azure environment
+name: Configure Azure environment redux
 
 on: 
   pull_request:
